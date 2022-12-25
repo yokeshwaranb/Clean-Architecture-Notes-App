@@ -13,3 +13,10 @@
 .externalNativeBuild
 .cxx
 local.properties
+/buildSrc/build/classes/java/main/dependencies/AnnotationProcessing.class
+/buildSrc/build/libs/buildSrc.jar
+/buildSrc/build/classes/java/main/dependencies/Dependencies.class
+/buildSrc/build/tmp/jar/MANIFEST.MF
+/buildSrc/build/tmp/compileJava/previous-compilation-data.bin
+/buildSrc/build/source-roots/buildSrc/source-roots.txt
+/buildSrc/build/classes/java/main/dependencies/Versions.class
