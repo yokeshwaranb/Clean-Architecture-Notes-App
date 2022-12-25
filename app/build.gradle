@@ -41,4 +41,9 @@ dependencies {
 
     implementation Dependencies.dagger;
     annotationProcessor AnnotationProcessing.dagger_compiler;
+
+    implementation Dependencies.firebase_firestore
+    implementation Dependencies.firebase_analytics
+    implementation Dependencies.firebase_auth
+    implementation Dependencies.firebase_crashlytics
 }
